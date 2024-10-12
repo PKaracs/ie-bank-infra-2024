@@ -6,19 +6,19 @@
         "value": "nonprod"
       },
       "postgreSQLServerName": {
-        "value": "pkaracs-dbsrv-dev"
+        "value": "pkaracs-dbsrv-uat"
       },
       "postgreSQLDatabaseName": {
-        "value": "pkaracs-db-dev"
+        "value": "pkaracs-db-uat"
       },
       "appServicePlanName": {
-        "value": "pkaracs-asp-dev"
+        "value": "pkaracs-asp-uat"
       },
       "appServiceAPIAppName": {
-        "value": "pkaracs-be-dev"
-      },
+        "value": "pkaracs-be-uat"
+      }, 
       "appServiceAppName": {
-        "value": "pkaracs-fe-dev"
+        "value": "pkaracs-fe-uat"
       },
       "location": {
         "value": "North Europe"
